@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+server/database.db
+server/documents/*
+server/static/qr/*
+print-agent/config.json
+print-agent/printer/*.exe
