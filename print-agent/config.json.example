@@ -1,0 +1,5 @@
+{
+  "server_url": "https://print.yourdomain.com",
+  "agent_token": "CHANGE_THIS_TO_A_LONG_RANDOM_SECRET",
+  "printer_name": "Canon LBP3010"
+}
